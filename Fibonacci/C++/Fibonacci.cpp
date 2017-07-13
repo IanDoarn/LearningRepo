@@ -1,5 +1,6 @@
 // Fibonacci.cpp 
 // Calculate fibonacci numbers up to 20
+// Written by: Ian Doarn
 
 #include "stdafx.h"
 #include <iostream>
@@ -16,9 +17,7 @@ void Fibonacci::calculate(int n) {
 
 		cout << i << ": " << a << endl;
 	}
-
 }
-
 
 int main() {
 	Fibonacci fib;
