@@ -2,7 +2,7 @@
 
 Print the first 20 numbers in the fibonacci sequence starting at 1
 
-Outputs shoud all look the same:
+Outputs should all look the same:
 
 ```
 1: 1
